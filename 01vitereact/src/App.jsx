@@ -4,7 +4,7 @@ function App() {
   return (
     <>
       <Chai/>
-      <h1>Chai Aur React with Vite{userName}</h1>
+      <h1>Chai Aur React with Vite {userName}</h1>
       <p>test Para</p>
     </>
   )
